@@ -1,0 +1,56 @@
+#header{
+    background-color: slateblue; 
+    text-align: center; 
+    color: whitesmoke; 
+    font-family: cursive; 
+    font-size: 20px;
+}
+
+#nav{
+    background-color: indigo; 
+    padding:0px;
+    text-align: center;
+}
+
+#utama{
+    background-image: url(background5.jpg); 
+    padding: 8px; 
+    color: whitesmoke;
+    font-family: sans-serif;
+}
+
+.pilihan{
+    color: whitesmoke;
+}
+
+#Galeri{
+    text-align: center; 
+    font-family: sans-serif; 
+    color: whitesmoke;
+}
+
+#footer{
+    background-color: indigo; 
+    padding: 5px; 
+    text-align: center; 
+    color: whitesmoke; 
+    font-family: cursive; 
+    font-size: 36px;
+}
+
+.pilih{
+    color: honeydew; 
+    font-size: 18px;
+}
+
+.kotak{
+    width: 400px; 
+    height: 250px; 
+    background-color: white; 
+    color: black; 
+    overflow: scroll; 
+    padding: 4px;
+    border: thin 4px;
+    text-align: justify;
+    font-family: sans-serif;
+}
